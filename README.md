@@ -38,7 +38,7 @@ One can recreate this project by simply adding a file "config.py" which would ha
 Happy Coding!
 
 ### Some visualizations:
-![Histogram Visual]((https://github.com/PranavP4tel/YouTube-Data-Project-1/blob/main/images/Figure_1.png))
+![Histogram Visual](https://github.com/PranavP4tel/YouTube-Data-Project-1/blob/main/images/Figure_1.png)
 
 ![Categories with number of videos](https://github.com/PranavP4tel/YouTube-Data-Project-1/blob/main/images/Figure_2.png)
 
